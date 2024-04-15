@@ -31,6 +31,7 @@ Modify your button so that it also adds a suffix of "-Moo" to the last word of e
 Consider a sentence to be a string of text that ends with a period character, "." .
 Use the String/array methods split and join. 
 
+https://www.loom.com/share/3b6ff76d2a374a0a92295dac5032ce76
 [x] Video walkthrough
 <div>
     <a href="https://www.loom.com/share/3b6ff76d2a374a0a92295dac5032ce76?sid=5b4688a5-9ea2-4d31-8804-abae0b1a6b00">
