@@ -32,11 +32,4 @@ Consider a sentence to be a string of text that ends with a period character, ".
 Use the String/array methods split and join. 
 
 https://www.loom.com/share/3b6ff76d2a374a0a92295dac5032ce76
-[x] Video walkthrough
-<div>
-    <a href="https://www.loom.com/share/3b6ff76d2a374a0a92295dac5032ce76?sid=5b4688a5-9ea2-4d31-8804-abae0b1a6b00">
-    </a>
-    <a href="https://www.loom.com/share/3b6ff76d2a374a0a92295dac5032ce76?sid=5b4688a5-9ea2-4d31-8804-abae0b1a6b00">
-      <img style="max-width:700px;" src="https://www.loom.com/share/3b6ff76d2a374a0a92295dac5032ce76?sid=8505f67f-c166-4164-8910-c03521718531">
-    </a>
-  </div>
+
