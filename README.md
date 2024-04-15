@@ -36,6 +36,6 @@ Use the String/array methods split and join.
     <a href="https://www.loom.com/share/3b6ff76d2a374a0a92295dac5032ce76?sid=5b4688a5-9ea2-4d31-8804-abae0b1a6b00">
     </a>
     <a href="https://www.loom.com/share/3b6ff76d2a374a0a92295dac5032ce76?sid=5b4688a5-9ea2-4d31-8804-abae0b1a6b00">
-      <img style="max-width:700px;" src="https://cdn.loom.com/sessions/thumbnails/173aa68c5b5d403ca68e53a9ca793f00-with-play.gif">
+      <img style="max-width:700px;" src="https://www.loom.com/share/3b6ff76d2a374a0a92295dac5032ce76?sid=8505f67f-c166-4164-8910-c03521718531">
     </a>
   </div>
